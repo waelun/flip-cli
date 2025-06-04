@@ -1,0 +1,9 @@
+{
+  "host": "your_server_ip",
+  "port": 22,
+  "username": "your_username",
+  "password": "your_password",
+  "localPath": "./dist",
+  "remotePath": "/var/www/html/your_project",
+  "excludePatterns": [".git", "node_modules/"]
+}
